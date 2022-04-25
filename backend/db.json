@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "price": 4999.99,
+      "quantity": 5
+    },
+    {
+      "name": "TV 32\"",
+      "price": 1700,
+      "quantity": 2,
+      "id": 2
+    }
+  ]
+}
