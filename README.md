@@ -30,3 +30,29 @@ Design e Usabilidade: O uso do Bootstrap proporcionou um design responsivo e ace
 ✨ Destaques do Projeto
 O uso do AngularJS permitiu o desenvolvimento rápido e a criação de uma interface responsiva. A implementação do Axios simplificou o gerenciamento das requisições HTTP, tornando a comunicação de dados limpa e eficaz para todas as operações do CRUD.
 
+🚀 Como Executar o Projeto
+Siga os passos abaixo para clonar e rodar a aplicação em sua máquina local.
+
+1. Pré-requisitos
+Você precisa ter o Node.js instalado em sua máquina, pois ele é necessário para rodar o JSON Server.
+
+2. Passos para Execução
+Clone o Repositório:
+
+Bash
+
+git clone [(https://github.com/mateussmunizz/CRUD-Angular)]
+Instale o JSON Server: Se você ainda não o tem, instale o JSON Server globalmente através do npm:
+
+Bash
+
+npm install -g json-server
+Inicie o Back-end Simulado: Navegue até o diretório do projeto e execute o comando abaixo para iniciar o JSON Server. Ele irá ler o arquivo db.json e criar a API RESTful.
+
+Bash
+
+json-server --watch db.json
+O servidor estará ativo em http://localhost:3000 (ou porta padrão).
+
+Acesse a Aplicação Front-end: Com o servidor JSON rodando, basta abrir o arquivo index.html do projeto em seu navegador. Recomenda-se usar uma extensão de servidor local, como o Live Server, para evitar problemas de CORS e caminhos.
+
