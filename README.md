@@ -53,6 +53,3 @@ Bash
 
 json-server --watch db.json
 O servidor estará ativo em http://localhost:3000 (ou porta padrão).
-
-Acesse a Aplicação Front-end: Com o servidor JSON rodando, basta abrir o arquivo index.html do projeto em seu navegador. Recomenda-se usar uma extensão de servidor local, como o Live Server, para evitar problemas de CORS e caminhos.
-
