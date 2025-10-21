@@ -1,5 +1,7 @@
 👨‍💻 CRUD com AngularJS e JSON Server
+
 📄 Descrição do Projeto
+
 Este repositório apresenta o desenvolvimento de um Sistema Completo de Cadastro de Usuário (CRUD). O projeto tem como principal objetivo demonstrar a aplicação prática de técnicas modernas de desenvolvimento, utilizando um back-end simulado para persistência de dados e um robusto framework JavaScript para o front-end.
 
 ⚙️ Funcionalidades
